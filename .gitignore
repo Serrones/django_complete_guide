@@ -103,3 +103,5 @@ settings.ini
 
 # mypy
 .mypy_cache/
+
+static/bootstrap-4.1.3-dist/
